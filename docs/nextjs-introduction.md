@@ -13,5 +13,5 @@
 |       SSR       |       CSR       |
 
 * ***브라우저의 클라이언트***
-    - SSR(Server-Side Randering): 브라우저에서 초기 html 소스 확인 가능.
-    - CSR(Client-Side Rendering): 브라우저 초기 html이 비어 있을 수 있으며, JavaScript 실행 후 콘텐츠가 표시됨.
+    - **SSR(Server-Side Randering)**: 브라우저에서 초기 html 소스 확인 가능.
+    - **CSR(Client-Side Rendering)**: 브라우저 초기 html이 비어 있을 수 있으며, JavaScript 실행 후 콘텐츠가 표시됨.
